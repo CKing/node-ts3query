@@ -1,0 +1,29 @@
+{
+  "name": "ts3query",
+  "version": "0.0.1",
+  "description": "Teamspeak 3 ServerQuery Client, Promise Edition",
+  "main": "lib/ts3query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CKing/node-ts3query.git"
+  },
+  "keywords": [
+    "teamspeak",
+    "ts3",
+    "serverquery"
+  ],
+  "author": "Christopher König <criss@paars.de> (http://paars.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CKing/node-ts3query/issues"
+  },
+  "homepage": "https://github.com/CKing/node-ts3query",
+  "dependencies": {
+    "bluebird": "^2.3.6",
+    "event-stream": "^3.1.7",
+    "nyutil": "0.0.2"
+  }
+}
