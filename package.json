@@ -1,6 +1,6 @@
 {
   "name": "ts3query",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Teamspeak 3 ServerQuery Client, Promise Edition",
   "main": "lib/ts3query.js",
   "scripts": {
